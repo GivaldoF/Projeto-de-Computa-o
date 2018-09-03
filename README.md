@@ -7,4 +7,5 @@ sympy: https://www.sympy.org/en/index.html    <br/>
 mpmath: http://mpmath.org/                     <br/>
 
 
-Exemplo: f(x) = x² + 5
+x² = x^2  
+x³ = x^3 ...  
