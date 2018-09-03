@@ -1,2 +1,2 @@
-# Projeto-de-Computa-o
+# Projeto-de-Computacao
 Cálculo de integrais
